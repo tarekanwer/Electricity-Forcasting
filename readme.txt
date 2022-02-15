@@ -1,0 +1,1 @@
+Modeling the electricity consumption of certain aggregates using machine learning techniques by feeding the model with historical data to forecast the upcoming consumption using python libraries such as keras, scikit-learn and tensorflow.
